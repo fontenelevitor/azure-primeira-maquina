@@ -23,7 +23,7 @@ O objetivo é criar uma VM Windows no Azure Portal e documentar o processo.
    - Tamanho: `tandard D2als v7 (2 vcpus, 4 GiB memória)`  
    - Usuário/Admin: `vitorgsf`  
    - Senha: `*************`  
-4. Configure a rede permitindo **RDP (porta 3389)**.  
+4. Configure a rede permitindo **RDP (porta 3389) e HTTP (80)**.  
 5. Clique em **Revisar + Criar** e aguarde a implantação.  
 6. Conecte-se via **Remote Desktop** usando o IP público da VM.  
 
